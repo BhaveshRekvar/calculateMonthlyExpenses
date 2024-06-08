@@ -1,28 +1,28 @@
-.heading{
+.heading {
   display: flex;
   justify-content: center;
   align-items: center;
-  font-size:24px;
+  font-size: 24px;
   font-weight: bold;
   padding: 20px;
 }
 
-.container{
+.container {
   width: 90%;
-  margin: 0 auto ;
+  margin: 0 auto;
   display: flex;
   flex-direction: column;
   flex-wrap: nowrap;
 
-  .label{
+  .label {
     margin-bottom: 10px;
   }
 
-  button{
-    margin-top: 10px;
+  button {
+    margin-top: 15px;
     background-color: blueviolet;
     font-size: 20px;
     border-radius: 5px;
-   color: white;
+    color: white;
   }
 }

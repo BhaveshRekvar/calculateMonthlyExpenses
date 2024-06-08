@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/calculateMonthlyExpenses/static/css/main.6dafdbe1.css",
-    "main.js": "/calculateMonthlyExpenses/static/js/main.9cd71fc7.js",
+    "main.js": "/calculateMonthlyExpenses/static/js/main.7bf26c7f.js",
     "static/js/787.6d5ac7d4.chunk.js": "/calculateMonthlyExpenses/static/js/787.6d5ac7d4.chunk.js",
     "index.html": "/calculateMonthlyExpenses/index.html",
     "main.6dafdbe1.css.map": "/calculateMonthlyExpenses/static/css/main.6dafdbe1.css.map",
-    "main.9cd71fc7.js.map": "/calculateMonthlyExpenses/static/js/main.9cd71fc7.js.map",
+    "main.7bf26c7f.js.map": "/calculateMonthlyExpenses/static/js/main.7bf26c7f.js.map",
     "787.6d5ac7d4.chunk.js.map": "/calculateMonthlyExpenses/static/js/787.6d5ac7d4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6dafdbe1.css",
-    "static/js/main.9cd71fc7.js"
+    "static/js/main.7bf26c7f.js"
   ]
 }
